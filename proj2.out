@@ -1,0 +1,36 @@
+1: D: started
+2: V 1: started
+3: D: next cart
+4: V 1: boarding started
+5: V 2: started
+6: N 1: started
+7: N 2: started
+8: N 1: queue
+9: N 1: boarding
+10: N 3: started
+11: N 2: queue
+12: N 2: boarding
+13: N 3: queue
+14: N 3: boarding
+15: N 4: started
+16: N 4: queue
+17: N 4: boarding
+18: V 1: boarding complete
+19: N 5: started
+20: D: next cart
+21: V 1: leaving started
+22: V 2: boarding started
+23: N 1: leaving
+24: N 2: leaving
+25: N 3: leaving
+26: N 5: queue
+27: N 5: boarding
+28: N 4: leaving
+29: V 2: boarding complete
+30: V 1: leaving complete
+31: D: closing
+32: V 2: leaving started
+33: V 1: closed
+34: N 5: leaving
+35: V 2: leaving complete
+36: V 2: closed
